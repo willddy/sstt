@@ -1,0 +1,1 @@
+Denial of service (DoS) attack with REGISTER message flooding cannot be launched on SIP implementation. Proxy/Registrar can prevent flooding of REGISTER messages. Suggestion: Can enable mechanism to stop DoS on both server and client side.

@@ -1,0 +1,1 @@
+SIP implementation does support to use Whitespaces in SIP Keywords, such as "REGISTE R". Therefore, even wrong SIP message can be processed. Suggestion: Add auto-correction can improve robustness.

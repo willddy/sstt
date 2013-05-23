@@ -1,0 +1,2 @@
+SIP implementation cannot parcer extra newlines in SIP header. Implementation does not has better robustness.
+Suggestion: add support for better robustness.

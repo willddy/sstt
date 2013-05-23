@@ -1,0 +1,1 @@
+SIP implementation does support to use undefined SIP Keywords, such as "INFORMATION". Therefore, even wrong SIP message can be processed. Suggestion: Add auto-correction can improve robustness.

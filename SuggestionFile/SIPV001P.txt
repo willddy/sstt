@@ -1,0 +1,2 @@
+There is authentication mechanism for REGISTER message. The proxy/registrar only allows valid user agents to register. Therefore, the proxy/registrar can prevent attacks like DoS and Registration Hijacking Attack.
+Suggestion: Stronger authentication provide better security.

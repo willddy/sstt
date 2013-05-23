@@ -1,0 +1,2 @@
+SIP implementation does support TLS(SIPS).
+Suggestion: Implement TLS on TCP.

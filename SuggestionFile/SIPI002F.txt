@@ -1,0 +1,2 @@
+The SIP implementation is not based on TCP. 
+Suggestion: Use TCP.

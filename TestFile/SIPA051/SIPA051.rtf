@@ -1,0 +1,29 @@
+INVITE sip:129.173.67.67 SIP/2.0
+Via: SIP/2.0/UDP 192.168.67.26:5062;branch=z9hG4bK0553f059c
+Max-Forwards: 70
+To: ddu <sip:ddu@cs.dal.ca>
+From: Advertisement-16 <sip:Advertisement-16@test.net>;tag=ff7577f256d0df6
+Call-ID: 7547f946d5a9ca8@test.net
+CSeq: 085814 INVITE
+Supported: timer
+Session-Expires: 3600
+Allow: INVITE,ACK,OPTIONS,BYE,CANCEL,REGISTER,REFER,SUBSCRIBE,NOTIFY,MESSAGE
+Content-Type: application/sdp
+Contact: Advertisement-16 <sip:Advertisement-16@192.168.67.26:5062>
+Route: <sip:ddu@cs.dal.ca>
+Content-Length: 270
+
+v=0
+o=Advertisement-16 51684286 0 IN IP4 192.168.67.26
+s=null
+c=IN IP4 192.168.67.26
+t=0 0
+m=audio 4518 RTP/AVP 4 0 8
+a=rtpmap:4 G723/8000
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=ptime:30
+m=video 4526 RTP/AVP 34
+a=rtpmap:34 H263/90000
+a=recvonly
+m=application 4518

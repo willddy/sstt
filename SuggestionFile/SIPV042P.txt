@@ -1,0 +1,2 @@
+SIP implementation does support TLS(SIPS).
+Suggestion: More suited to Hop-by-hop architecture.

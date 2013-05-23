@@ -1,0 +1,29 @@
+INVITE sip:129.173.67.67 SIP/2.0
+Via: SIP/2.0/TCP 129.173.67.77:5062;branch=z9hG4bK4058649c0
+Max-Forwards: 70
+To: ddu <sip:ddu@cs.dal.ca>
+From: ddu5 <sip:ddu5@cs.dal.ca>;tag=ff7577f256d0df7
+Call-ID: 7547f946d5a9ca9@cs.dal.ca
+CSeq: 9113 INVITE
+Supported: timer
+Session-Expires: 3600
+Allow: INVITE,ACK,OPTIONS,BYE,CANCEL,REGISTER,REFER,SUBSCRIBE,NOTIFY,MESSAGE
+Content-Type: application/sdp
+Contact: ddu5 <sip:ddu5@129.173.67.77:5062>
+Route: <sip:ddu@cs.dal.ca>
+Content-Length: 258
+
+v=0
+o=ddu5 51684286 0 IN IP4 129.173.67.77
+s=null
+c=IN IP4 129.173.67.77
+t=0 0
+m=audio 4518 RTP/AVP 4 0 8
+a=rtpmap:4 G723/8000
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=ptime:30
+m=video 4526 RTP/AVP 34
+a=rtpmap:34 H263/90000
+a=recvonly
+m=application 4518

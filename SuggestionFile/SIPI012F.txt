@@ -1,0 +1,1 @@
+Stateless proxy is faster than stateful proxy server, but stateless proxy is unable to absorb re-transmissionis of messages and perform more advanced routing, such as forking. Suggestion: An option is using stateful proxy server.

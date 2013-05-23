@@ -1,0 +1,1 @@
+Registration hijacking attack cannot be launched on SIP implementation. Registrar will deny unauthenticated de-REGISTER messages (Expried: 0). Suggestion: Digest authentication is more secure than basic authentication.

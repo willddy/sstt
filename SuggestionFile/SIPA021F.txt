@@ -1,0 +1,1 @@
+INVITE request spoofing can be launched on SIP implementation. Hacker can use another user's ID to make calls for various reasons. Suggestion: Basic or digest authentication will protect against this type of attack.

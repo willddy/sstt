@@ -1,0 +1,2 @@
+SIP implementation cannot parcer extra whitespaces in SIP header, such as 'CSeq:       102831023801 REGISTER'. Implementation does not has better robustness.
+Suggestion: add support parcer extra whitespaces for better robustness.

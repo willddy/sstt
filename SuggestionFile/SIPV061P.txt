@@ -1,0 +1,2 @@
+SIP implementation can parcer extra whitespaces in SIP header, such as 'CSeq:       102831023801 REGISTER'. Implementation has better robustness.
+Suggestion: enable or implement mechanism to prevent DoS attack with wrong syntax messages.

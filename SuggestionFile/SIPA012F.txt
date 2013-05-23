@@ -1,0 +1,3 @@
+Replay attack can be launched on SIP implementation. Proxy/Registrar cannot discover modified messages. Suggestion: Authentication should be used to get full protection against replays. Change the nonce value
+for each challenge which requires a lot of resources. Another suggestion is to use strong nonces, such as nonces including the clients IP
+, time-stamp and a server key in the nonce generation.

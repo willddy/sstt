@@ -1,0 +1,1 @@
+Replay attack cannot be launched on SIP implementation. Proxy/Registrar can discover modified messages. Suggestion: Authentication requires resources.

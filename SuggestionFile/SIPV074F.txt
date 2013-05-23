@@ -1,0 +1,1 @@
+SIP implementation does not support to use wrong keywords, such as "REGISTERS". Therefore, spam message can be prevented. Suggestion: Add support or auto-correction can improve robustness.

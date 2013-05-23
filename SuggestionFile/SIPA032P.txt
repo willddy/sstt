@@ -1,0 +1,1 @@
+Tear down session attack cannot be launched on SIP implementation. Proxy/Registrar can deny unauthenticated CANCEL or BYE messages. Suggestion: Authentication requires resources.

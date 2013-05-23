@@ -1,0 +1,1 @@
+SIP spam attack can be launched on SIP implementation. Proxy/Registrar cannot stop spam call or messages. Suggestion: Enable authentication and using access contro list mechanism to stop spamer.

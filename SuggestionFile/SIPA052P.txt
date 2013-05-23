@@ -1,0 +1,1 @@
+SIP spam attack cannot be launched on SIP implementation. Proxy/Registrar can deny spam call or messages using access control list mechanism. Suggestion: Borrow spam mechanism from email anti-spam.

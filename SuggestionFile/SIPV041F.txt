@@ -1,0 +1,2 @@
+SIP implementation on UDP does not support TLS(SIPS).
+Suggestion: TLS can only run on TCP.

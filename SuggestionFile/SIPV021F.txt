@@ -1,0 +1,2 @@
+There is no authentication mechanism for CANCEL message. The proxy/registrar only allows any user agents to cancel session. Therefore, the proxy/registrar is potentially vulnerable with DoS attack, tear down sessioni Attack and spam call.
+Suggestion: Enable CANCEL authentication mechanism.

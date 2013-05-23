@@ -1,0 +1,2 @@
+SIP implementation does not support MIME or S/MIME in message body. The proxy/registrar is vulnerable with message tampering and eavesdropping.  
+Suggestion: Enable MIME or S/MIME mechanism

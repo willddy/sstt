@@ -1,0 +1,2 @@
+SIP implementation does support MIME or S/MIME in message body. The proxy/registrar can prevent message tampering and eavesdropping.  
+Suggestion: No suggestion.

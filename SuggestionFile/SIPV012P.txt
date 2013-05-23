@@ -1,0 +1,2 @@
+There is authentication mechanism for INVITE message. The proxy/registrar only allows valid user agents to invite. Therefore, the proxy/registrar can prevent DoS attack, INVITE spoofing Attack and spam call.
+Suggestion: Use stronger authentication for better security.

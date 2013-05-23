@@ -1,0 +1,1 @@
+SIP implementation does support to use wrong SIP Keywords, such as "REGISTERS". Therefore, even wrong SIP message can be processed. Suggestion: Add auto-correction can improve robustness.

@@ -1,0 +1,1 @@
+SIP implementation does not support to use undefined keywords, such as "INFORMATION". Therefore, spam message can be prevented. Suggestion: Add support or auto-correction can improve robustness.

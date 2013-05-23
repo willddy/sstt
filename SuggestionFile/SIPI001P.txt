@@ -1,0 +1,2 @@
+The SIP implementation is based on UDP,which does not use re-transmissions or sequence numbers, so it is vulnerable to packets spoofing attack.
+Suggestion: Use TCP instead or improve other security mechanism

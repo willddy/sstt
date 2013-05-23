@@ -1,0 +1,4 @@
+The SIP implementation is based on TCP, which is a connection-oriented, guaranteed-delivery transport
+protocol which involves a negotiated setup and tear down,sequence numbers, and retransmissions for lost packets,
+so it is more suitable for SIP.
+suggestion: No .
